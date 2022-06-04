@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Mango-Lime-Salsa-9-683x1024.jpg (683×1024)
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=bkkdmegbmldnopopfkkpdmfaihhgbolg
+Icon=chrome-bkkdmegbmldnopopfkkpdmfaihhgbolg-Default
+StartupWMClass=crx_bkkdmegbmldnopopfkkpdmfaihhgbolg

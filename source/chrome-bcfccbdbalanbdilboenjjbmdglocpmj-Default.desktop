@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Pan con Bistec - Cook2eatwell
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=bcfccbdbalanbdilboenjjbmdglocpmj
+Icon=chrome-bcfccbdbalanbdilboenjjbmdglocpmj-Default
+StartupWMClass=crx_bcfccbdbalanbdilboenjjbmdglocpmj

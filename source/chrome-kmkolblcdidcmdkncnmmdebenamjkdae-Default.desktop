@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=The Ultimate Easy Cuban Sandwich | The Recipe Critic
+Exec=/opt/google/chrome/google-chrome --profile-directory=Default --app-id=kmkolblcdidcmdkncnmmdebenamjkdae
+Icon=chrome-kmkolblcdidcmdkncnmmdebenamjkdae-Default
+StartupWMClass=crx_kmkolblcdidcmdkncnmmdebenamjkdae
